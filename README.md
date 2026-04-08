@@ -13,6 +13,12 @@
 # 📝 This notebook includes: 
 
 - Data inspection and cleaning. 
-- Handling missing and inconsistent values. 
+- Handling missing and inconsistent values.
+
+# 📘 Notebook
+The complete data cleaning process and exploratory analysis can be found in the notebook below:
+
+- `GoogleAds_cleaning.ipynb`
+
 
 
